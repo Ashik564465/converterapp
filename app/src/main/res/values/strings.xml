@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="hint_enter_value">Enter Value</string>
+    <string name="btn_convert">Convert</string>
+    <string name="result_placeholder">Result will appear here</string>
+    <string name="msg_enter_value">Please enter a value</string>
+    <string name="unit_meters">meters</string>
+    <string name="unit_fahrenheit">°F</string>
+    <string name="unit_grams">grams</string>
+    <string name="msg_invalid_selection">Invalid selection</string>
+</resources>
